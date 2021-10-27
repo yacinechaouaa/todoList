@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.each {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2%;
+}
+
+.title {
+  background-color: "red";
+  width: 50%;
+  letter-spacing: 5px;
+}
+.add {
+  display: flex;
+  margin-left: 30%;
+}
+.input {
+  width: 600px;
+  height: 50px;
+}
+.button {
+  margin-left: 40px;
+  width: 50%;
+  margin-top: 10px;
+}
+.todo {
+  background-color: #ffa6d5;
+}
+.head {
+  background-color: #9cc094;
+}
